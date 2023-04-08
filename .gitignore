@@ -1,0 +1,8 @@
+#ignore _pcache_ files
+_pycache_/
+
+#ignore all .txt files
+*.txt
+
+.idea/
+
