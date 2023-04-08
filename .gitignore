@@ -4,3 +4,5 @@ _pycache_/
 #ignore all .txt files
 *.txt
 
+.idea/
+
